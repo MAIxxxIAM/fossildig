@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-fossildig",
+  "description": "杂糅了宝可梦珍钻化石挖掘和上古卷轴OL考古的挖掘化石小游戏",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.17.5"
+  }
+}
